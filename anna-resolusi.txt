@@ -2,3 +2,5 @@ Resolusi
 - konsisten membuat konten
 - membuat platfrom 
 - membuat forum diskusi
+- membuat mecrh shop
+- kolaborasi
